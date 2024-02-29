@@ -1,0 +1,185 @@
+#shima {
+    display: inline-block;
+    border-bottom: 5px rgb(176, 206, 171);
+    position: relative;
+    left: 50%;
+    top: 21px;
+    width: 170px;
+    right: 16px;
+}
+
+#p1 {
+    display: inline-block;
+    position: relative;
+    padding: 12px;
+    background-color: rgb(234, 231, 231);
+    text-align: right;
+    color: dimgrey;
+    border-radius: 15px;
+    width: 300px;
+    top: 0px;
+    left: 48%;
+
+}
+
+#p2 {
+    font-size: 17px;
+    color: rgb(102, 104, 104);
+    position: relative;
+    top: -65px;
+    left: 37%;
+}
+
+#shop {
+    width: 55px;
+    position: relative;
+    top: -122px;
+    left: 27%;
+
+}
+
+#shoop {
+    width: 150px;
+    position: relative;
+    top: -122px;
+    left: 12%;
+
+}
+
+#d2 {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: -120px;
+    left: 10%;
+}
+
+.p {
+
+    display: inline-block;
+    position: relative;
+    left: 39%;
+    top: 20px;
+    margin: 0px 26px;
+    font-size: 14px;
+
+}
+
+#r {
+    margin-right: 20px;
+    font-size: 12px;
+    left: 29%;
+}
+
+#s {
+    position: relative;
+    width: 90px;
+    top: 25px;
+    right: 75%;
+}
+
+.img {
+    position: relative;
+}
+
+#i1 {
+    position: absolute;
+    top: -420px;
+    left: 870px;
+    width: 315px;
+    border-radius: 10px;
+
+}
+
+#i2 {
+    position: absolute;
+    top: -600px;
+    left: 870px;
+    width: 315px;
+    border-radius: 10px;
+
+
+}
+
+#i3 {
+    position: absolute;
+    top: -605px;
+    left: 270px;
+    width: 590px;
+    border-radius: 10px;
+
+}
+
+div {
+
+    font-size: 19px;
+    top: 600px;
+}
+
+#p3 {
+    display: inline-block;
+    position: absolute;
+    top: 600px;
+    left: 44%;
+    font-size: 30px;
+    color: rgb(101, 175, 101);
+}
+
+.im {
+    display: inline-block;
+    position: relative;
+    top: 430px;
+    width: 100px;
+    left: 18%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(189, 179, 179);
+    width: 100px;
+    height: 90px;
+    padding: 5px;
+}
+
+.g {
+    width: 1520px;
+    position: relative;
+    top: 500px;
+    left: -1%;
+}
+
+.pr {
+    display: inline-block;
+    position: relative;
+    top: 220px;
+    margin: 0px 30px;
+    left: 8%;
+}
+#pp{
+    display: inline-block;
+    position: relative;
+    top: 490px;
+    left: 66%;
+    font-size: 32px;
+    font-style:inherit;
+}
+#m{
+    position: relative;
+}
+#m-1{
+    width: 180px;
+    position: relative;
+    top: -90px;
+    left: 68%;
+}
+#m-2{
+    display: inline-block;
+    position: relative;
+    top: -60px;
+    left: 55%;
+
+}
+.m{
+    border-radius: 5px;
+    border-style: solid;
+    border-color: darkgrey;
+}
