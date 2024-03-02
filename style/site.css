@@ -34,7 +34,7 @@
     width: 55px;
     position: relative;
     top: -122px;
-    left: 27%;
+left: 28%;
 
 }
 
@@ -42,7 +42,7 @@
     width: 150px;
     position: relative;
     top: -122px;
-    left: 10%;
+    left: 12%;
 
 }
 
@@ -71,7 +71,7 @@
     left: 29%;
 }
 
-#s {
+#sr {
     position: relative;
     width: 90px;
     top: 25px;
@@ -516,14 +516,14 @@ div {
 #h {
     display: inline-block;
     position: relative;
-    top: -110px;
+    top: 151px;
 }
 
 #h-1 {
     width: 204px;
     height: 180px;
     position: relative;
-    top: -770px;
+    top: -670px;
     left: 53%;
 
 
@@ -532,7 +532,7 @@ div {
 #h-2 {
     display: inline-block;
     position: relative;
-    top: -736px;
+    top: -636px;
     left: 96%;
     border-radius: 5px;
     border-width: 1px;
@@ -549,7 +549,7 @@ div {
     position: relative;
     display: inline-block;
     left: 25%;
-    top: -700px;
+    top: -600px;
 
 }
 
@@ -557,41 +557,41 @@ div {
 #s{
     display: inline-block;
     position: relative;
-    top: -50px;
-    left: 30%;
+    top: 200px;
+    left: 10%;
 }
 
 #s-1 {
-    width: 204px;
+    width: 206px;
     height: 180px;
     position: relative;
-    top: -733px;
-    left: 56%;
+    top: -720px;
+    left: 18%;
 
 
 }
 
-#s-2 {
-    display: block;
+#s-2 { display: inline-block;
     position: relative;
-    top: -436px;
-    left: 51%;
+    top: -686px;
+    left: 55%;
     border-radius: 5px;
     border-width: 1px;
     border-style: solid;
     border-color: rgb(201, 197, 197);
-    padding: 11px 99px 11px 109px;
-    padding-top: 98px;
-    padding-bottom: 94px;
+    padding: 11px 26px 11px 20px;
+    padding-top: 198px;
+    padding-bottom: 60px;
     background-color: rgb(247, 242, 242);
+
 }
 
 #s-3 {
     color: red;
     position: relative;
     display: inline-block;
-    left: 85%;
-    top: -710px;
+    left: -14%;
+    top: -649px;
 
 }
 
@@ -599,7 +599,7 @@ div {
     display: inline-block;
     color: rgb(198, 198, 198);
     position: relative;
-    left: 175%;
-    top: -770px;
+    left: -14%;
+    top: -651px;
     text-decoration-line: line-through;
 }
