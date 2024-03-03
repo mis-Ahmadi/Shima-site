@@ -373,7 +373,7 @@ div {
 #fix {
     width: 55px;
     position: fixed;
-    top: 650px;
+    top: 655px;
     left: 2%;
 }
 
@@ -1107,7 +1107,7 @@ div {
     display: inline-block;
     color: white;
     background-color: rgb(101, 175, 101);
-    padding: 8px 24px ;
+    padding: 8px 24px;
     border-radius: 5px;
     top: -1945px;
     left: 16%;
@@ -1309,6 +1309,7 @@ div {
     top: -651px;
     text-decoration-line: line-through;
 }
+
 #n {
     font-size: 40px;
     color: darkgrey;
@@ -1323,4 +1324,38 @@ div {
     position: relative;
     left: 11%;
     top: -2260px;
+}
+
+#u-1 {
+    width: 200px;
+    position: relative;
+    top: -2196px;
+    left: 12%;
+}
+
+#u-2 {
+    width: 200px;
+    position: relative;
+    top: -2198px;
+    left: 18%;
+}
+
+#u-3 {
+    width: 200px;
+    position: relative;
+    top: -2200px;
+    left: 23%;
+}
+
+#u-4 {
+    width: 200px;
+    position: relative;
+    top: -2198px;
+    left: 27%;
+}
+
+#site {
+    width: 1650px;
+    position: relative;
+    top: -2180px;
 }
